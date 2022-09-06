@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "665078324419",
+    "firebase_url": "https://penyiraman-fc389-default-rtdb.firebaseio.com",
+    "project_id": "penyiraman-fc389",
+    "storage_bucket": "penyiraman-fc389.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:665078324419:android:d69638bd40875147acd676",
+        "android_client_info": {
+          "package_name": "id.mentoring.monitoringpenyiraman"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "665078324419-0s155n97mak91thtvinsoki028tduove.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCp77h_q92Zl1kDb7lHEy9tKSXyNvdY37o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "665078324419-0s155n97mak91thtvinsoki028tduove.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
